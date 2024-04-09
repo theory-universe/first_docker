@@ -17,4 +17,5 @@
 4. Был создан и запущен docker-compose.yml файл:
 ``` docker-compose up```.
 5. Данный репозиторий был клонирован в необходимую директорию. Dockerfile и Docker Compose были скопированы и добавлены в основную ветку на github.
-
+6. Данная программа успешно работает через контейнер:
+   ![Работа программы](https://github.com/theory-universe/first_docker/blob/main/example.png)
