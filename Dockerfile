@@ -3,7 +3,7 @@ FROM ubuntu:latest
 # Устанавливаем bash
 RUN apt-get update && apt-get install -y bash
 
-# Копируем скрипт bush.bush внутрь образа
+# Копируем скрипт data.bush внутрь образа
 COPY data.bush /data.bush
 
 # Добавляем разрешение на выполнение для скрипта
