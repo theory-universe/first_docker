@@ -1,0 +1,5 @@
+while true
+do
+    echo "Текущая дата: $(date +"%F"), Текущее время: $(date +"%T")"
+    sleep 5
+done
